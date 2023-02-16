@@ -1,0 +1,4 @@
+/Volumes/disk2/notebooks/C++/parallel101/1/build/CMakeFiles/hellolib.dir
+/Volumes/disk2/notebooks/C++/parallel101/1/build/CMakeFiles/a.out.dir
+/Volumes/disk2/notebooks/C++/parallel101/1/build/CMakeFiles/edit_cache.dir
+/Volumes/disk2/notebooks/C++/parallel101/1/build/CMakeFiles/rebuild_cache.dir

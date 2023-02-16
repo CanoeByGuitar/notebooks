@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.6 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/a.out.dir/main.cpp.o CMakeFiles/a.out.dir/hello.cpp.o -o a.out  -Wl,-rpath,/Volumes/disk2/notebooks/C++/parallel101/1/build libhellolib.dylib 
